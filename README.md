@@ -1,2 +1,4 @@
 # hello-world
-eerste keer dat ik github probeer
+I want to learn programming 
+First time I work with GitHub 
+Looks interesting!
